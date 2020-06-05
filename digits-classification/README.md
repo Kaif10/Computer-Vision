@@ -3,12 +3,4 @@ Please see the following [blog post](https://www.learnopencv.com/handwritten-dig
 [Handwritten Digits Classification : An OpenCV ( C++ / Python ) Tutorial](https://www.learnopencv.com/handwritten-digits-classification-an-opencv-c-python-tutorial/)
 
 
-# AI Courses by OpenCV
 
-Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start. 
-
-<a href="https://opencv.org/courses/">
-<p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
-</p>
-</a>
