@@ -1,6 +1,6 @@
-Please see the following [blog post](https://www.learnopencv.com/handwritten-digits-classification-an-opencv-c-python-tutorial/) for more details about this code
+The Neural Network was trained on the famous MNIST-dataset.
+I then tested the model in realtime with handwritten digit  with opencv.
 
-[Handwritten Digits Classification : An OpenCV ( C++ / Python ) Tutorial](https://www.learnopencv.com/handwritten-digits-classification-an-opencv-c-python-tutorial/)
 
 
 
