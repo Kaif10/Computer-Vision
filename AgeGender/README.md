@@ -11,7 +11,7 @@ Age Net : https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0"
 
 
 
-![The output I got.](https://github.com/Kaif10/Computer-Vision-with-OpenCV-and-Keras/blob/master/AgeGender/age_gender_detection.jpg?raw=true)
+![Output](https://gitcdn.xyz/cdn/Tony607/blog_statics/master/images/face/age_gender_demo.gif)
 
 
 
